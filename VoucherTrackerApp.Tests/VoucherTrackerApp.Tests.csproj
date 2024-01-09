@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\VoucherTrackerApp\VoucherTrackerApp.csproj" />
-    <ProjectReference Include="..\VoucherTrackerApp\VouvherTrackerApp.csproj" />
   </ItemGroup>
 
 </Project>
