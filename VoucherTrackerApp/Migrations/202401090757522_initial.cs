@@ -1,4 +1,4 @@
-namespace VoucherTrackerApp.Migrations
+﻿namespace FitnessTrackerApp.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
